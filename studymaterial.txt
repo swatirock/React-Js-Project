@@ -1,0 +1,16 @@
+﻿we can create react element using React.createElement() method and using JSX, using JSX is esy way to create element. 
+
+jSX- javascript syntax extension
+
+functional component (no need to import special type of package for functional component)
+
+Class based component (need to import Component Package for Class component and use "this" property as well)
+
+(third party package which need to install)- typechecking with propTypes-  propType & isRequired & default
+
+
+State- state is similar to prop, we can create state only in class component.
+
+we can not change props directly because props is readonly property, we can change props value through state, change state using setState();
+
+
